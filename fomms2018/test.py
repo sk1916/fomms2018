@@ -23,4 +23,4 @@ def trapz(x, f):
     ya = f(a)
     yb = f(b)
     I = (b-a) * (ya + yb) / 2
-return I
+    return I
